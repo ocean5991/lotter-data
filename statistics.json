@@ -1,0 +1,516 @@
+{
+  "generated_at": "2026-03-11T15:40:27.167852",
+  "total_periods": 2832,
+  "date_range": {
+    "start": "2007-06-23",
+    "end": "2026-03-09"
+  },
+  "front_frequency": {
+    "top_10": [
+      {
+        "number": 29,
+        "count": 486
+      },
+      {
+        "number": 33,
+        "count": 471
+      },
+      {
+        "number": 35,
+        "count": 469
+      },
+      {
+        "number": 30,
+        "count": 457
+      },
+      {
+        "number": 32,
+        "count": 454
+      },
+      {
+        "number": 22,
+        "count": 440
+      },
+      {
+        "number": 34,
+        "count": 430
+      },
+      {
+        "number": 7,
+        "count": 421
+      },
+      {
+        "number": 5,
+        "count": 421
+      },
+      {
+        "number": 1,
+        "count": 418
+      }
+    ],
+    "bottom_10": [
+      {
+        "number": 8,
+        "count": 381
+      },
+      {
+        "number": 14,
+        "count": 381
+      },
+      {
+        "number": 21,
+        "count": 380
+      },
+      {
+        "number": 12,
+        "count": 379
+      },
+      {
+        "number": 17,
+        "count": 375
+      },
+      {
+        "number": 13,
+        "count": 374
+      },
+      {
+        "number": 4,
+        "count": 372
+      },
+      {
+        "number": 15,
+        "count": 366
+      },
+      {
+        "number": 24,
+        "count": 359
+      },
+      {
+        "number": 16,
+        "count": 344
+      }
+    ]
+  },
+  "back_frequency": {
+    "top_6": [
+      {
+        "number": 10,
+        "count": 508
+      },
+      {
+        "number": 7,
+        "count": 502
+      },
+      {
+        "number": 5,
+        "count": 495
+      },
+      {
+        "number": 12,
+        "count": 483
+      },
+      {
+        "number": 2,
+        "count": 473
+      },
+      {
+        "number": 9,
+        "count": 470
+      }
+    ],
+    "bottom_6": [
+      {
+        "number": 11,
+        "count": 467
+      },
+      {
+        "number": 3,
+        "count": 462
+      },
+      {
+        "number": 6,
+        "count": 457
+      },
+      {
+        "number": 4,
+        "count": 454
+      },
+      {
+        "number": 1,
+        "count": 450
+      },
+      {
+        "number": 8,
+        "count": 443
+      }
+    ]
+  },
+  "front_probability": {
+    "1": {
+      "count": 418,
+      "probability": 14.76
+    },
+    "2": {
+      "count": 408,
+      "probability": 14.41
+    },
+    "3": {
+      "count": 414,
+      "probability": 14.62
+    },
+    "4": {
+      "count": 372,
+      "probability": 13.14
+    },
+    "5": {
+      "count": 421,
+      "probability": 14.87
+    },
+    "6": {
+      "count": 397,
+      "probability": 14.02
+    },
+    "7": {
+      "count": 421,
+      "probability": 14.87
+    },
+    "8": {
+      "count": 381,
+      "probability": 13.45
+    },
+    "9": {
+      "count": 384,
+      "probability": 13.56
+    },
+    "10": {
+      "count": 391,
+      "probability": 13.81
+    },
+    "11": {
+      "count": 411,
+      "probability": 14.51
+    },
+    "12": {
+      "count": 379,
+      "probability": 13.38
+    },
+    "13": {
+      "count": 374,
+      "probability": 13.21
+    },
+    "14": {
+      "count": 381,
+      "probability": 13.45
+    },
+    "15": {
+      "count": 366,
+      "probability": 12.92
+    },
+    "16": {
+      "count": 344,
+      "probability": 12.15
+    },
+    "17": {
+      "count": 375,
+      "probability": 13.24
+    },
+    "18": {
+      "count": 386,
+      "probability": 13.63
+    },
+    "19": {
+      "count": 413,
+      "probability": 14.58
+    },
+    "20": {
+      "count": 397,
+      "probability": 14.02
+    },
+    "21": {
+      "count": 380,
+      "probability": 13.42
+    },
+    "22": {
+      "count": 440,
+      "probability": 15.54
+    },
+    "23": {
+      "count": 393,
+      "probability": 13.88
+    },
+    "24": {
+      "count": 359,
+      "probability": 12.68
+    },
+    "25": {
+      "count": 402,
+      "probability": 14.19
+    },
+    "26": {
+      "count": 388,
+      "probability": 13.7
+    },
+    "27": {
+      "count": 393,
+      "probability": 13.88
+    },
+    "28": {
+      "count": 388,
+      "probability": 13.7
+    },
+    "29": {
+      "count": 486,
+      "probability": 17.16
+    },
+    "30": {
+      "count": 457,
+      "probability": 16.14
+    },
+    "31": {
+      "count": 417,
+      "probability": 14.72
+    },
+    "32": {
+      "count": 454,
+      "probability": 16.03
+    },
+    "33": {
+      "count": 471,
+      "probability": 16.63
+    },
+    "34": {
+      "count": 430,
+      "probability": 15.18
+    },
+    "35": {
+      "count": 469,
+      "probability": 16.56
+    }
+  },
+  "back_probability": {
+    "1": {
+      "count": 450,
+      "probability": 15.89
+    },
+    "2": {
+      "count": 473,
+      "probability": 16.7
+    },
+    "3": {
+      "count": 462,
+      "probability": 16.31
+    },
+    "4": {
+      "count": 454,
+      "probability": 16.03
+    },
+    "5": {
+      "count": 495,
+      "probability": 17.48
+    },
+    "6": {
+      "count": 457,
+      "probability": 16.14
+    },
+    "7": {
+      "count": 502,
+      "probability": 17.73
+    },
+    "8": {
+      "count": 443,
+      "probability": 15.64
+    },
+    "9": {
+      "count": 470,
+      "probability": 16.6
+    },
+    "10": {
+      "count": 508,
+      "probability": 17.94
+    },
+    "11": {
+      "count": 467,
+      "probability": 16.49
+    },
+    "12": {
+      "count": 483,
+      "probability": 17.06
+    }
+  },
+  "front_miss": {
+    "max_miss": [
+      {
+        "number": 34,
+        "miss": 24
+      },
+      {
+        "number": 28,
+        "miss": 23
+      },
+      {
+        "number": 27,
+        "miss": 22
+      },
+      {
+        "number": 30,
+        "miss": 19
+      },
+      {
+        "number": 24,
+        "miss": 17
+      }
+    ],
+    "current_miss": {
+      "1": 5,
+      "2": 12,
+      "3": 3,
+      "4": 7,
+      "5": 1,
+      "6": 5,
+      "7": 6,
+      "8": 3,
+      "9": 1,
+      "10": 2,
+      "11": 15,
+      "12": 2,
+      "13": 4,
+      "14": 2,
+      "15": 1,
+      "16": 5,
+      "17": 6,
+      "18": 8,
+      "19": 2,
+      "20": 5,
+      "21": 4,
+      "22": 16,
+      "23": 3,
+      "24": 17,
+      "25": 11,
+      "26": 1,
+      "27": 22,
+      "28": 23,
+      "29": 9,
+      "30": 19,
+      "31": 2,
+      "32": 3,
+      "33": 2,
+      "34": 24,
+      "35": 4
+    }
+  },
+  "back_miss": {
+    "max_miss": [
+      {
+        "number": 7,
+        "miss": 15
+      },
+      {
+        "number": 8,
+        "miss": 14
+      },
+      {
+        "number": 9,
+        "miss": 14
+      }
+    ],
+    "current_miss": {
+      "1": 5,
+      "2": 1,
+      "3": 8,
+      "4": 2,
+      "5": 1,
+      "6": 6,
+      "7": 15,
+      "8": 14,
+      "9": 14,
+      "10": 9,
+      "11": 7,
+      "12": 4
+    }
+  },
+  "odd_even_stats": {
+    "most_common_front": [
+      [
+        "3:2",
+        1034
+      ],
+      [
+        "2:3",
+        865
+      ],
+      [
+        "4:1",
+        460
+      ],
+      [
+        "1:4",
+        351
+      ],
+      [
+        "5:0",
+        77
+      ]
+    ],
+    "most_common_back": [
+      [
+        "1:1",
+        1576
+      ],
+      [
+        "2:0",
+        635
+      ],
+      [
+        "0:2",
+        621
+      ]
+    ]
+  },
+  "sum_stats": {
+    "front_sum_avg": 91.7888418079096,
+    "front_sum_min": 27,
+    "front_sum_max": 163
+  },
+  "zone_stats": [
+    [
+      "1/1/1/1/1",
+      156
+    ],
+    [
+      "1/1/1/0/2",
+      88
+    ],
+    [
+      "1/1/0/1/2",
+      73
+    ],
+    [
+      "1/0/1/1/2",
+      70
+    ],
+    [
+      "0/1/1/1/2",
+      69
+    ],
+    [
+      "1/0/1/2/1",
+      65
+    ],
+    [
+      "2/1/1/1/0",
+      63
+    ],
+    [
+      "1/1/1/2/0",
+      62
+    ],
+    [
+      "1/0/2/1/1",
+      59
+    ],
+    [
+      "2/1/1/0/1",
+      59
+    ]
+  ]
+}
